@@ -1,0 +1,1 @@
+Re-integrating new customer transaction predictions from our ML with old customers. The output of this will be fed into our legacy LTV model built on BTYD package.
